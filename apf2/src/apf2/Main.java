@@ -1,3 +1,5 @@
+//Dev: Lucas Pereira do Amaral - A equipe sou só eu mesmo.
+
 package apf2;
 
 public class Main {
